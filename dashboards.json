@@ -1,0 +1,14 @@
+[
+    {
+        "title":"My first Viz",
+        "category":"Personal",
+        "description":"My first Vizual for practice",
+        "url":"https://public.tableau.com/views/MyFirstViz_17793751893620/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+    },
+    {
+        "title":"Beginner Sales Dashboard",
+        "category":"Sales",
+        "description":"Dashboard of sales products",
+        "url":"https://public.tableau.com/views/BeginnerSalesDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+    }
+]
